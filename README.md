@@ -1,1 +1,3 @@
-<h1 text-align: center;> <center> My Repository <center> </h1>
+<center>
+<h1> <center> My Repository <center> </h1>
+</center>
